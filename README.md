@@ -45,4 +45,4 @@ This script automates the process of refreshing metadata for a collection of Non
 
 ## Who Should Use This Script
 
-- **NFT Creators**: If you've created an NFT collection, this script can help ensure that your metadata remains accurate and accessible to collectors.
+- **NFT Creators**: If you've created an NFT collection with ThirdWeb , this script can help ensure that your metadata remains accurate and accessible to collectors.
